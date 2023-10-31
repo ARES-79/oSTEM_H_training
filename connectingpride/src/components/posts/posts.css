@@ -1,0 +1,7 @@
+.posts {
+    float: 10;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Roboto Slab', serif;
+    margin: 20px;
+}
